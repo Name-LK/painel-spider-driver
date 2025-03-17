@@ -1,56 +1,17 @@
 ﻿using System;
 using System.Net.Sockets;
+using System.Text;
+using AutoloadV4.EdgeGateway.Drivers.SpiderConsole;
 
-namespace PainelSpider.core
+class Program
 {
-    public class PainelSpider
+    public static void Main()
     {
-        private const string Host = "10.1.3.96";
-        private const int Port = 2101;
+        SpiderDriver driver = new SpiderDriver();
+        driver.Connect();
+        Console.WriteLine("Digite a mensagem a ser enviada");
+        string mensagem = Console.ReadLine();
 
-        private TcpClient? _client;
-        
-        public void Connect()
-        {
-            try
-            {
-                Console.WriteLine($"Conectando ao painel spider no endereço {Host}");
-                _client = new TcpClient(Host, Port);
-                Console.WriteLine($"Device Connected Successfully");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Failed to connect: {ex.Message}");
-            }
-        }
-
-        public void Disconnect()
-        {
-            if (_client != null && _client.Connected)
-            {
-                _client.Close();
-            }
-            Console.WriteLine("Device Disconnected");
-        }
-
-        private void EnsureConencted()
-        {
-            if (_client == null || !_client.Connected)
-            {
-                Console.WriteLine("Device is not connected. Reconnecting...");
-                Disconnect();
-                Connect();
-            }
-        }
-
-        public void SetMessage()
-        {
-            
-        }
-
-        public void GetMessage()
-        {
-            
-        }
+        driver.SetMessage(mensagem);
     }
 }

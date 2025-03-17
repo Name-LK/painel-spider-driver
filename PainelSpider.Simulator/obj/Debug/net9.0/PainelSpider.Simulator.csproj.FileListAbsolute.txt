@@ -1,0 +1,15 @@
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\bin\Debug\net9.0\PainelSpider.Simulator.exe
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\bin\Debug\net9.0\PainelSpider.Simulator.deps.json
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\bin\Debug\net9.0\PainelSpider.Simulator.runtimeconfig.json
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\bin\Debug\net9.0\PainelSpider.Simulator.dll
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\bin\Debug\net9.0\PainelSpider.Simulator.pdb
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\PainelSpider.Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\PainelSpider.Simulator.AssemblyInfoInputs.cache
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\PainelSpider.Simulator.AssemblyInfo.cs
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\PainelSpider.Simulator.csproj.CoreCompileInputs.cache
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\PainelSpider.Simulator.sourcelink.json
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\PainelSpider.Simulator.dll
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\refint\PainelSpider.Simulator.dll
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\PainelSpider.Simulator.pdb
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\PainelSpider.Simulator.genruntimeconfig.cache
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Simulator\obj\Debug\net9.0\ref\PainelSpider.Simulator.dll

@@ -1,0 +1,5 @@
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Core\obj\Debug\net8.0\PainelSpider.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Core\obj\Debug\net8.0\PainelSpider.Core.AssemblyInfoInputs.cache
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Core\obj\Debug\net8.0\PainelSpider.Core.AssemblyInfo.cs
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Core\obj\Debug\net8.0\PainelSpider.Core.csproj.CoreCompileInputs.cache
+C:\Users\lucas.santana\Documents\code\personal\painel-spider-driver\PainelSpider.Core\obj\Debug\net8.0\PainelSpider.Core.sourcelink.json
